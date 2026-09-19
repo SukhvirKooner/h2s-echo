@@ -1,5 +1,5 @@
 name: h2s_echo
-description: H2S-ECHO wearable cartridge exposure demo app (frontend-only simulation).
+description: H2S-ECHO wearable wristband cartridge operator app for H₂S exposure verification, shifts, and optical readout.
 publish_to: 'none'
 version: 1.0.0+1
 

@@ -51,7 +51,7 @@ lib/
   widgets/   shared UI, charts, viewfinder, steppers
   services/  camera interface
   theme/     colours, typography, constants (e.g. kAccuracyThreshold)
-  demo/      operator tools panel (scenario controls, data reset)
+  tools/     operator tools panel (scenario controls, data reset)
 ```
 
 ## Operator flow
