@@ -18,7 +18,7 @@ Cartridge lifecycle: **EXPOSED → RECOVERING → BASELINE RECOVERED → READY �
 ## Requirements
 
 - Flutter stable (3.38+ / Dart 3)
-- Xcode (iOS)
+- Xcode (iOS) or the Android SDK (Android)
 
 ## Getting started
 
@@ -26,9 +26,10 @@ Cartridge lifecycle: **EXPOSED → RECOVERING → BASELINE RECOVERED → READY �
 git clone https://github.com/SukhvirKooner/h2s-echo.git
 cd h2s-echo
 flutter pub get
-open -a Simulator   # optional
 flutter run
 ```
+
+On iOS, run `open -a Simulator` before `flutter run`. On Android, start an emulator or connect a device first.
 
 ## Architecture
 
